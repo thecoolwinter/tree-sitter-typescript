@@ -21,3 +21,7 @@ For Javascript files with [flow] type annotations you can use the the `tsx` pars
 References
 
 * [TypeScript Language Spec](https://github.com/microsoft/TypeScript/blob/main/doc/spec-ARCHIVED.md)
+
+## To build for swift:
+
+-   Run `make`.
