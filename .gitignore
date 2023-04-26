@@ -21,3 +21,6 @@ yarn.lock
 /typescript/Cargo.toml
 /typescript/binding.gyp
 /typescript/bindings
+
+.DS_Store
+.build
